@@ -31,7 +31,7 @@ WiFiClient serverClients[MAX_SRV_CLIENTS];
 void setup() {
   delay(2000);
 
-  /*서버 기능 설정 하기 */
+  /*서버 기능 설정 하기ㅋㅋ */
   WiFi.mode(WIFI_AP);
   Serial.print("wifi status = ");
   Serial.println(WiFi.status());
